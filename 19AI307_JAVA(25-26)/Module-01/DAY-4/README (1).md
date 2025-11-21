@@ -9,7 +9,7 @@ To write a Java program that prints all elements in an array greater than a give
 ## ALGORITHM :
 1.	Start the program.
 2.	Import the necessary package 'java.util'
-3.	Read the size n and elements of the array.
+3.	Read the size n and elements of the array
 4.	Read a value to compare with.
 5.	Use a loop to check and print elements greater than the given value.
 6.	End the program.
@@ -72,5 +72,6 @@ public class ElementsGreaterThanX {
 
 ## RESULT:
 The program successfully prints all array elements greater than the given value.
+
 
 
