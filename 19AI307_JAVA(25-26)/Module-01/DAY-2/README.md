@@ -30,8 +30,8 @@ To write a Java program that determines whether using stairs or an elevator is f
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: E VARSHA SHARON
-Register Number:  212222100058
+Developed by: Bala murugan 
+Register Number:  212222230017
 */
 ```
 
@@ -73,5 +73,6 @@ public class prog {
 
 ## RESULT:
 The program successfully determines the faster option between stairs and elevator.
+
 
 
