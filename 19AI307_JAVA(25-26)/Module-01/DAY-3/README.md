@@ -21,8 +21,8 @@ To write a Java program to print a hollow square pattern using asterisks (*).
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: E VARSHA SHARON
-RegisterNumber:  212222100058
+Developed by: Bala murugan P
+RegisterNumber:  212222230017
 */
 ```
 
@@ -59,4 +59,5 @@ public class HollowSquare {
 
 ## RESULT:
 The program successfully prints a hollow square pattern of size n × n.
+
 
