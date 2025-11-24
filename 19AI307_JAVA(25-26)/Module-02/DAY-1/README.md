@@ -20,8 +20,8 @@ To Create a class Vehicle with attributes as number, type and owner.
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: E VARSHA SHARON
-RegisterNumber:  212222100058
+Developed by: Bala murugan
+RegisterNumber:  212222230017
 */
 ```
 
@@ -62,4 +62,5 @@ public class Main {
 
 ## RESULT:
 Thus, a Java program to create a class Vehicle with attributes number, type, and owner was successfully implemented and executed.
+
 
