@@ -20,8 +20,8 @@ To write a method boolean isEven  (int num) without using % operator that return
  ```
 /*
 Program to implement a Methods using Java
-Developed by: E VARSHA SHARON
-RegisterNumber:  212222100058
+Developed by: Bala murugan
+RegisterNumber:  212222230017
 */
 ```
 
@@ -53,4 +53,5 @@ public class Main
 
 ## RESULT:
 Thus, the Java program using a method to check whether a number is even without using the modulo operator (%) was successfully written, executed, and verified.
+
 
